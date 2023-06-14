@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+.card{
+    margin: 10%;
+}
+.card-text{
+    height: 13rem;
+}
+.card-img-top{
+    height: 10rem;
+}
