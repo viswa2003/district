@@ -1,9 +1,16 @@
 body{
-    background-color: aqua;
+   background-image: url(https://www.nationsonline.org/gallery/India/Tea-Gardens-Munnar-Kerala-India.jpg);
+   
+    color: rgb(255, 0, 76);
 }
 
 .card{
     margin: 10%;
+    color: rgb(255, 255, 255);
+    background-color: #17594A;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+
 }
 .card-text{
     height: 13rem;
@@ -11,3 +18,7 @@ body{
 .card-img-top{
     height: 10rem;
 }
+
+
+  
+ 
